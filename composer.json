@@ -1,0 +1,14 @@
+{
+    "name": "yungsters/hh-symbol",
+    "description": "Symbol map builder for use with Hack.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Timothy Yung",
+            "email": "yungsters@gmail.com"
+        }
+    ],
+    "require": {
+      "yungsters/hh-apc": "~1.0.0"
+    }
+}
